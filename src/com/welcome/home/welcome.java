@@ -35,6 +35,13 @@ public class welcome {
 			System.out.println("OMG What a casuality! The number "+ randomNumber  +" is equal to 7 and the number "
 					+  randomNumberbyMath + " is equal to 19");
 		} 
+		
+		for(int i = 0; i < 10; i++ ) {
+			int randomNumberG = random.nextInt(10);
+			System.out.println(randomNumberG + " number by random");
+			
+			
+		}
 
 
 	}
